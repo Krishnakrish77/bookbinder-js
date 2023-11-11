@@ -68,3 +68,18 @@ body, .wrapper, #bookbinder {
 .instruction-indent {
     margin-left:  25px;
 }
+
+.v-badge{
+    background-color: #ddd;
+    border: none;
+    color: black;
+    padding: 5px 10px;
+    text-align: center;
+    margin-left: 0.3em;
+    font-weight: bold;
+    transform: translateY(-25%);
+    display: inline-block;
+    border-radius: 16px;
+    font-family: monospace;
+    font-variant-caps: small-caps;
+}
